@@ -10,7 +10,7 @@ We saved the results in a csv file using the code lines below:
 
 !outputformat csv
 
-!record USER02Q.csv 
+!record USER02QX.csv  where X is the number on the query
 
 SELECT … 
 
